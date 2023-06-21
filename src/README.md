@@ -4,7 +4,7 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 
 ## Scripts Disponíveis
 
-Instalar pacotes:
+Após baixar e descompactar o projeto, instalar os seguintes pacotes:
 
 ### `npm install`
 
